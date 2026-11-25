@@ -1,0 +1,42 @@
+{
+  "format": 1,
+  "title": {
+    "zh": "方块榜单插件索引",
+    "en": "FangKuai Ranking plugin index"
+  },
+  "description": {
+    "zh": "方块榜单及其后续版本的安装索引。",
+    "en": "Install index for FangKuai Ranking and its releases."
+  },
+  "plugins": [
+    {
+      "name": "dsh-fangkuai-ranking",
+      "title": {
+        "zh": "方块榜单",
+        "en": "FangKuai Ranking"
+      },
+      "description": {
+        "zh": "在 DeepSeek Harness 中创建、保存和查看自己的 A 股选股榜单。",
+        "en": "Create, save, and browse personalized A-share ranking boards in DeepSeek Harness."
+      },
+      "icon": "icons/icon.svg",
+      "author": "sifan184",
+      "homepage": "https://github.com/sifan184/dsh-fangkuai-ranking#readme",
+      "repository": {
+        "url": "https://github.com/sifan184/dsh-fangkuai-ranking"
+      },
+      "versions": [
+        {
+          "version": "0.4.0",
+          "publishTimestamp": 1795609989,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.5"
+          }
+        }
+      ]
+    }
+  ]
+}

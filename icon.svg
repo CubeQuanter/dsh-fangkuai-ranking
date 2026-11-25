@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="方块量化">
+  <title>方块量化</title>
+  <defs>
+    <clipPath id="fk-cube">
+      <polygon points="50.000,6.260 90.600,26.560 90.600,73.440 50.000,93.740 9.400,73.440 9.400,26.560"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="8" fill="#ffffff"/>
+  <g transform="translate(7.04 7.04) scale(0.4992)">
+    <polygon fill="#000000" points="50.000,6.260 90.600,26.560 90.600,73.440 50.000,93.740 9.400,73.440 9.400,26.560"/>
+    <g stroke="#ffffff" stroke-width="2.030" stroke-linecap="round" clip-path="url(#fk-cube)">
+      <line x1="50.000" y1="46.860" x2="9.400" y2="26.560"/>
+      <line x1="50.000" y1="46.860" x2="90.600" y2="26.560"/>
+      <line x1="50.000" y1="46.860" x2="50.000" y2="93.740"/>
+    </g>
+  </g>
+</svg>
