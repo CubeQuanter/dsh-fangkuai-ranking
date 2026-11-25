@@ -28,9 +28,11 @@
       "versions": [
         {
           "version": "0.4.0",
-          "publishTimestamp": 1795609989,
+          "publishTimestamp": 1795610231,
           "source": {
-            "type": "npm"
+            "type": "git",
+            "url": "https://github.com/sifan184/dsh-fangkuai-ranking.git",
+            "commit": "5e46f2677f7ebde1f3a2565268c0c8ab7a0fdc1c"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.5"
