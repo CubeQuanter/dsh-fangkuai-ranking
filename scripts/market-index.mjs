@@ -16,7 +16,7 @@ const source =
   sourceType === "git"
     ? {
         type: "git",
-        url: "https://github.com/sifan184/dsh-fangkuai-ranking.git",
+        url: "https://github.com/CubeQuanter/dsh-fangkuai-ranking.git",
         commit: commit.toLowerCase(),
       }
     : { type: "npm" };
@@ -43,10 +43,10 @@ const index = {
         en: "Create, save, and browse personalized A-share ranking boards in DeepSeek Harness.",
       },
       icon: "icons/icon.svg",
-      author: "sifan184",
+      author: "lenscape",
       homepage: pkg.homepage,
       repository: {
-        url: "https://github.com/sifan184/dsh-fangkuai-ranking",
+        url: "https://github.com/CubeQuanter/dsh-fangkuai-ranking",
       },
       versions: [
         {

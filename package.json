@@ -10,14 +10,14 @@
     "ranking"
   ],
   "license": "MIT",
-  "author": "sifan184",
+  "author": "lenscape",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sifan184/dsh-fangkuai-ranking.git"
+    "url": "git+https://github.com/CubeQuanter/dsh-fangkuai-ranking.git"
   },
-  "homepage": "https://github.com/sifan184/dsh-fangkuai-ranking#readme",
+  "homepage": "https://github.com/CubeQuanter/dsh-fangkuai-ranking#readme",
   "bugs": {
-    "url": "https://github.com/sifan184/dsh-fangkuai-ranking/issues"
+    "url": "https://github.com/CubeQuanter/dsh-fangkuai-ranking/issues"
   },
   "publishConfig": {
     "access": "public",

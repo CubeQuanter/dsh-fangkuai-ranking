@@ -20,10 +20,10 @@
         "en": "Create, save, and browse personalized A-share ranking boards in DeepSeek Harness."
       },
       "icon": "icons/icon.svg",
-      "author": "sifan184",
-      "homepage": "https://github.com/sifan184/dsh-fangkuai-ranking#readme",
+      "author": "lenscape",
+      "homepage": "https://github.com/CubeQuanter/dsh-fangkuai-ranking#readme",
       "repository": {
-        "url": "https://github.com/sifan184/dsh-fangkuai-ranking"
+        "url": "https://github.com/CubeQuanter/dsh-fangkuai-ranking"
       },
       "versions": [
         {
@@ -31,7 +31,7 @@
           "publishTimestamp": 1795610231,
           "source": {
             "type": "git",
-            "url": "https://github.com/sifan184/dsh-fangkuai-ranking.git",
+            "url": "https://github.com/CubeQuanter/dsh-fangkuai-ranking.git",
             "commit": "5e46f2677f7ebde1f3a2565268c0c8ab7a0fdc1c"
           },
           "engines": {

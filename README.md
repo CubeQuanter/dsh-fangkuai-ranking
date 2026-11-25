@@ -21,7 +21,7 @@
 2. 进入 **发现**，点 **添加索引源**，填入：
 
    ```text
-   https://sifan184.github.io/dsh-fangkuai-ranking/index.json
+   https://cubequanter.github.io/dsh-fangkuai-ranking/index.json
    ```
 
 3. 在索引中找到 **方块榜单**，点 **安装**，确认来源后等待安装完成。
